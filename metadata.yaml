@@ -1,10 +1,13 @@
 _repo: La-familia-de-Doctor-Pedraza_65719
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Seijas, Varela de
     gutenberg_agent_id: '53474'
     url: http://www.gutenberg.org/2009/agents/53474
+covers:
+- cover_type: archival
+  image_path: 65719-h/images/cover.jpg
 creator:
   author:
     agent_name: Blasco Ibáñez, Vicente
@@ -19,6 +22,8 @@ creator:
     - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
     - http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65719#La-familia-de-Doctor-Pedraza
 gutenberg_issued: '2021-06-28'
 gutenberg_type: Text
 identifiers:
